@@ -65,7 +65,7 @@
         <div class="flex flex-col items-center mb-4 gap-8">
           <img src={$user.picture} alt="Profile" class="w-20 h-20 rounded-full mr-4" />
           <div>
-            <h2 class="text-lg font-bold">UserName : {$user.name}</h2>
+            <h2 class="text-lg font-bold">userName : {$user.name}</h2>
             <p class="text-lg font-bold">Email: {$user.email}</p>
           </div>
         </div>
