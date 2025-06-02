@@ -52,7 +52,7 @@
   
   <div class="h-screen flex items-center justify-center text-center bg-gray-100">
     <div class="bg-white p-8 rounded-lg shadow-md w-96 text-center">
-      <h1 class="text-2xl font-bold mb-6">Welcome Back</h1>
+      <h1 class="text-2xl font-bold mb-6">Welcome to Back my page !</h1>
       <div bind:this={googleDiv} class="flex justify-center w-[180px] mx-auto"></div>
     </div>
   </div>
